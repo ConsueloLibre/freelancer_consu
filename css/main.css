@@ -23,6 +23,10 @@ font-family: 'Lato', sans-serif;
    top: 0;
    z-index:9999;
  }
+ footer {
+    padding-bottom: 114px;
+    font-family: 'Montserrat', sans-serif;
+}
  h1.head {
     margin-left: 140px;
 }
@@ -32,7 +36,8 @@ nav {
    font-size: 15px;
    font-weight: bolder;
    margin-left: 30px;
-   margin-top: -45px;
+   margin-top: -36px;
+   font-size: 20px;
 }
 a {
     margin-left: 30px;
@@ -338,4 +343,48 @@ p.use {
     padding-left: 556px;
     font-size: 25px;
     padding-top: -20px;
+}
+.fut1 {
+    margin-left: 225px;
+    padding-top: 55px;
+}
+h5.mel {
+    font-family: 'Lato', sans-serif;
+    letter-spacing: 2px;
+    font-size: 17px;
+    font-weight: 0;
+}
+.fut2 {
+    margin-left: 518px;
+    margin-top: -159px;
+    padding-top: -37px;
+    position: absolute;
+}
+.fut3 {
+    margin-left: 896px;
+    margin-top: -160px;
+    padding-top: -39px;
+    position: absolute;
+}
+h4.by {
+    font-family: 'Lato', sans-serif;
+    letter-spacing: 2px;
+    font-size: 17px;
+}
+.copy {
+    padding-left: 570px;
+    font-weight: 100;
+    padding-top: 101px;
+}
+.google {
+    padding-left: 644px;
+    position: absolute;
+    margin-top: -32px;
+    font-size: 29px;
+}
+.twiter {
+    position: absolute;
+    padding-left: 749px;
+    margin-top: -31px;
+    font-size: 29px;
 }
